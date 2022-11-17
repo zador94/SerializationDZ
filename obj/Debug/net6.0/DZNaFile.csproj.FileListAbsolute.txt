@@ -1,0 +1,15 @@
+C:\Users\andru\RiderProjects\DZNaFile\DZNaFile\bin\Debug\net6.0\DZNaFile.exe
+C:\Users\andru\RiderProjects\DZNaFile\DZNaFile\bin\Debug\net6.0\DZNaFile.deps.json
+C:\Users\andru\RiderProjects\DZNaFile\DZNaFile\bin\Debug\net6.0\DZNaFile.runtimeconfig.json
+C:\Users\andru\RiderProjects\DZNaFile\DZNaFile\bin\Debug\net6.0\DZNaFile.dll
+C:\Users\andru\RiderProjects\DZNaFile\DZNaFile\bin\Debug\net6.0\DZNaFile.pdb
+C:\Users\andru\RiderProjects\DZNaFile\DZNaFile\obj\Debug\net6.0\DZNaFile.csproj.AssemblyReference.cache
+C:\Users\andru\RiderProjects\DZNaFile\DZNaFile\obj\Debug\net6.0\DZNaFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andru\RiderProjects\DZNaFile\DZNaFile\obj\Debug\net6.0\DZNaFile.AssemblyInfoInputs.cache
+C:\Users\andru\RiderProjects\DZNaFile\DZNaFile\obj\Debug\net6.0\DZNaFile.AssemblyInfo.cs
+C:\Users\andru\RiderProjects\DZNaFile\DZNaFile\obj\Debug\net6.0\DZNaFile.csproj.CoreCompileInputs.cache
+C:\Users\andru\RiderProjects\DZNaFile\DZNaFile\obj\Debug\net6.0\DZNaFile.dll
+C:\Users\andru\RiderProjects\DZNaFile\DZNaFile\obj\Debug\net6.0\refint\DZNaFile.dll
+C:\Users\andru\RiderProjects\DZNaFile\DZNaFile\obj\Debug\net6.0\DZNaFile.pdb
+C:\Users\andru\RiderProjects\DZNaFile\DZNaFile\obj\Debug\net6.0\DZNaFile.genruntimeconfig.cache
+C:\Users\andru\RiderProjects\DZNaFile\DZNaFile\obj\Debug\net6.0\ref\DZNaFile.dll
