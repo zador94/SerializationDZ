@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "i1vQCmLm/m+/+O9tIupHk8OvMH2v/sD0rDlUZ+aV5nc2aLUw4IENLdZ9t+4WJ+VpKYizsxyOZwD6j+5qkSSHww==",
+  "dgSpecHash": "LnHiKPjb6UoLHgInW0OPt/E7MkiQYBh8rJzRJ9CeA11IjQjY1FmPZQfer6N7BkLp7LiiauVyJtDxn4tuvfiahw==",
   "success": true,
   "projectFilePath": "C:\\Users\\andru\\RiderProjects\\DZNaFile\\DZNaFile\\DZNaFile.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\andru\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512"
+  ],
   "logs": []
 }

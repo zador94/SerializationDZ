@@ -1,25 +1,23 @@
-﻿using System.Xml;
+﻿using System.Runtime.Serialization.Formatters.Soap;
+using System.Xml;
 using System.Xml.Serialization;
 using DZNaFile;
 
-AccountForPayment accountForPayment = new AccountForPayment (false)
+AccountForPayment accountForPayment = new AccountForPayment(15.5, 3, 12, 2)
 {
-    PayPerDay = 15.5,
-    AmountOfDays = 3,
-    OneDayPenalty = 12,
-    NumberOfPenaltyDays = 2
+    Xz = false
 };
 
+Console.WriteLine("Введите число для действия");
+Console.WriteLine("1 - сериализовать");
+Console.WriteLine("2 - десериализовать");
 
-if (accountForPayment.Xz == false)
+int a;
+while (!Int32.TryParse(Console.ReadLine(), out a) || (a != 1 && a != 2))
 {
-    System.Xml.Serialization.XmlSerializer writer = new XmlSerializer(typeof(AccountForPayment));
+    Console.WriteLine("Введите 1 или 2");
 }
-
-if (accountForPayment.Xz)
-{
-    int a = Int32.Parse(Console.ReadLine());
-    switch (a)
+switch (a)
     {
         case 1:
             SerializedAndDeserialized.Serialized(accountForPayment);
@@ -28,4 +26,7 @@ if (accountForPayment.Xz)
             SerializedAndDeserialized.Deserialized(accountForPayment);
             break;
     }
-}
+
+
+
+

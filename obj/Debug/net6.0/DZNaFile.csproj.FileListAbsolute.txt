@@ -13,3 +13,5 @@ C:\Users\andru\RiderProjects\DZNaFile\DZNaFile\obj\Debug\net6.0\refint\DZNaFile.
 C:\Users\andru\RiderProjects\DZNaFile\DZNaFile\obj\Debug\net6.0\DZNaFile.pdb
 C:\Users\andru\RiderProjects\DZNaFile\DZNaFile\obj\Debug\net6.0\DZNaFile.genruntimeconfig.cache
 C:\Users\andru\RiderProjects\DZNaFile\DZNaFile\obj\Debug\net6.0\ref\DZNaFile.dll
+C:\Users\andru\RiderProjects\DZNaFile\DZNaFile\bin\Debug\net6.0\SoapFormatter.dll
+C:\Users\andru\RiderProjects\DZNaFile\DZNaFile\obj\Debug\net6.0\DZNaFile.csproj.CopyComplete
